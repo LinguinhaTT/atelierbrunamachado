@@ -1,0 +1,48 @@
+.elementor-kit-5{--e-global-color-primary:#545454;--e-global-color-secondary:#DDE2E9;--e-global-color-text:#324A6D;--e-global-color-accent:#467FF7;--e-global-color-c696dce:#FFFFFF;--e-global-color-14ef391:#C8D5DC;--e-global-color-764183d:#F9FAFD;--e-global-color-d6cea4e:#FFFFFF;--e-global-color-86b4fcd:#02010100;--e-global-color-57c8da2:#000000CC;--e-global-color-19210ec:#FFE376;--e-global-color-4b83472:#691FB0;--e-global-color-165267a:#F29AA6;--e-global-color-e6b61dd:#6EC1E4;--e-global-color-3c2fce0:#D83771;--e-global-color-0cbec96:#FBFBFB;--e-global-color-f9cb152:#D2E7F0;--e-global-color-d3fba87:#FFF7D8;--e-global-color-6834349:#705120;--e-global-typography-primary-font-family:"Poppins";--e-global-typography-primary-font-size:65px;--e-global-typography-primary-font-weight:600;--e-global-typography-primary-text-transform:none;--e-global-typography-primary-font-style:normal;--e-global-typography-primary-text-decoration:none;--e-global-typography-primary-line-height:1.2em;--e-global-typography-primary-letter-spacing:0px;--e-global-typography-primary-word-spacing:0em;--e-global-typography-secondary-font-family:"Poppins";--e-global-typography-secondary-font-size:36px;--e-global-typography-secondary-font-weight:600;--e-global-typography-secondary-text-transform:capitalize;--e-global-typography-secondary-font-style:normal;--e-global-typography-secondary-text-decoration:none;--e-global-typography-secondary-line-height:1.1em;--e-global-typography-secondary-letter-spacing:0px;--e-global-typography-text-font-family:"Poppins";--e-global-typography-text-font-size:16px;--e-global-typography-text-font-weight:300;--e-global-typography-text-text-transform:none;--e-global-typography-text-font-style:normal;--e-global-typography-text-text-decoration:none;--e-global-typography-text-line-height:1.5em;--e-global-typography-text-letter-spacing:0px;--e-global-typography-accent-font-family:"Poppins";--e-global-typography-accent-font-size:16px;--e-global-typography-accent-font-weight:400;--e-global-typography-accent-text-transform:capitalize;--e-global-typography-accent-font-style:normal;--e-global-typography-accent-text-decoration:none;--e-global-typography-accent-line-height:1em;--e-global-typography-accent-letter-spacing:0px;--e-global-typography-392b9e0-font-family:"Poppins";--e-global-typography-392b9e0-font-size:22px;--e-global-typography-392b9e0-font-weight:600;--e-global-typography-392b9e0-text-transform:capitalize;--e-global-typography-392b9e0-font-style:normal;--e-global-typography-392b9e0-text-decoration:none;--e-global-typography-392b9e0-line-height:1.2em;--e-global-typography-392b9e0-letter-spacing:0px;--e-global-typography-c05b693-font-family:"Poppins";--e-global-typography-c05b693-font-size:22px;--e-global-typography-c05b693-font-weight:300;--e-global-typography-c05b693-text-transform:none;--e-global-typography-c05b693-font-style:normal;--e-global-typography-c05b693-text-decoration:none;--e-global-typography-c05b693-line-height:1.5em;--e-global-typography-c05b693-letter-spacing:0px;--e-global-typography-6558fb1-font-family:"Poppins";--e-global-typography-6558fb1-font-size:16px;--e-global-typography-6558fb1-font-weight:300;--e-global-typography-6558fb1-text-transform:uppercase;--e-global-typography-6558fb1-font-style:normal;--e-global-typography-6558fb1-text-decoration:none;--e-global-typography-6558fb1-line-height:1.5em;--e-global-typography-6558fb1-letter-spacing:10px;--e-global-typography-92bce3b-font-family:"Poppins";--e-global-typography-92bce3b-font-size:16px;--e-global-typography-92bce3b-font-weight:400;--e-global-typography-92bce3b-text-transform:capitalize;--e-global-typography-92bce3b-font-style:italic;--e-global-typography-92bce3b-text-decoration:underline;--e-global-typography-92bce3b-line-height:1em;--e-global-typography-92bce3b-letter-spacing:0px;--e-global-typography-b2deeae-font-family:"Poppins";--e-global-typography-b2deeae-font-size:85px;--e-global-typography-b2deeae-font-weight:600;--e-global-typography-b2deeae-text-transform:none;--e-global-typography-b2deeae-font-style:normal;--e-global-typography-b2deeae-text-decoration:none;--e-global-typography-b2deeae-line-height:1em;--e-global-typography-b2deeae-letter-spacing:0px;--e-global-typography-fb1a3e0-font-family:"Poppins";--e-global-typography-fb1a3e0-font-size:200px;--e-global-typography-fb1a3e0-font-weight:600;--e-global-typography-fb1a3e0-text-transform:none;--e-global-typography-fb1a3e0-font-style:normal;--e-global-typography-fb1a3e0-text-decoration:none;--e-global-typography-fb1a3e0-line-height:1.2em;--e-global-typography-fb1a3e0-letter-spacing:0px;--e-global-typography-397e168-font-family:"Poppins";--e-global-typography-397e168-font-size:16px;--e-global-typography-397e168-font-weight:400;--e-global-typography-397e168-text-transform:capitalize;--e-global-typography-397e168-font-style:italic;--e-global-typography-397e168-text-decoration:none;--e-global-typography-397e168-line-height:1.3em;--e-global-typography-397e168-letter-spacing:0px;background-color:#FCFCFC;}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}.elementor-kit-5 h4{color:var( --e-global-color-primary );font-family:var( --e-global-typography-392b9e0-font-family ), Sans-serif;font-size:var( --e-global-typography-392b9e0-font-size );font-weight:var( --e-global-typography-392b9e0-font-weight );text-transform:var( --e-global-typography-392b9e0-text-transform );font-style:var( --e-global-typography-392b9e0-font-style );text-decoration:var( --e-global-typography-392b9e0-text-decoration );line-height:var( --e-global-typography-392b9e0-line-height );letter-spacing:var( --e-global-typography-392b9e0-letter-spacing );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1270px;}.e-con{--container-max-width:1270px;}.elementor-widget:not(:last-child){--kit-widget-spacing:3px;}.elementor-element{--widgets-spacing:3px 3px;--widgets-spacing-row:3px;--widgets-spacing-column:3px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-kit-5{--e-global-typography-primary-font-size:45px;--e-global-typography-secondary-font-size:25px;--e-global-typography-text-font-size:14px;--e-global-typography-accent-font-size:14px;--e-global-typography-c05b693-font-size:18px;--e-global-typography-6558fb1-font-size:14px;--e-global-typography-92bce3b-font-size:14px;--e-global-typography-b2deeae-font-size:65px;--e-global-typography-fb1a3e0-font-size:145px;--e-global-typography-397e168-font-size:14px;--e-global-typography-c05b693-line-height:1.4em;}.elementor-kit-5 h4{font-size:var( --e-global-typography-392b9e0-font-size );line-height:var( --e-global-typography-392b9e0-line-height );letter-spacing:var( --e-global-typography-392b9e0-letter-spacing );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-5{--e-global-typography-primary-font-size:28px;--e-global-typography-primary-line-height:1.1em;--e-global-typography-secondary-font-size:20px;--e-global-typography-392b9e0-font-size:18px;--e-global-typography-b2deeae-font-size:42px;--e-global-typography-b2deeae-line-height:1em;--e-global-typography-fb1a3e0-font-size:100px;--e-global-typography-fb1a3e0-line-height:1em;--e-global-typography-c05b693-font-size:16px;}.elementor-kit-5 h4{font-size:var( --e-global-typography-392b9e0-font-size );line-height:var( --e-global-typography-392b9e0-line-height );letter-spacing:var( --e-global-typography-392b9e0-letter-spacing );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */<style>
+.esconder {display:none}
+</style>
+
+<script type="text/javascript">
+window.onload = function () {
+/* ALTERE O VALOR 10 PARA OS SEGUNDOS EM QUE AS SEÇÕES VÃO APARECER */
+var SECONDS_TO_DISPLAY = 10;
+var CLASS_TO_DISPLAY = ".esconder";
+
+/* DAQUI PARA BAIXO NAO PRECISA ALTERAR */
+var attempts = 0;
+var elsHiddenList = [];
+var elsDisplayed = false;
+var elsHidden = document.querySelectorAll(CLASS_TO_DISPLAY);
+var alreadyElsDisplayed = localStorage.getItem('alreadyElsDisplayed');
+
+setTimeout(function () { elsHiddenList = Array.prototype.slice.call(elsHidden); }, 0);
+
+var showEls = function () {
+  elsDisplayed = true;
+  elsHiddenList.forEach((e) => e.style.display = "block");
+  localStorage.setItem('alreadyElsDisplayed', true)
+}
+
+var startWatchVideoProgress = function () {
+  if (typeof smartplayer === 'undefined' && !(smartplayer.instances && smartplayer.instances.length)) {
+    attempts += 1;
+    if (attempts >= 10) return;
+    return setTimeout(function () { startWatchVideoProgress() }, 1000);
+  }
+
+  smartplayer.instances[0].on('timeupdate', () => {
+    if (elsDisplayed || smartplayer.instances[0].video.currentTime < SECONDS_TO_DISPLAY) return;
+    showEls();
+
+fbq('track', 'Pagina_Revelada');
+
+  })
+}
+
+if (alreadyElsDisplayed === 'true') {
+  setTimeout(function () { showEls(); }, 100);
+} else {
+  startWatchVideoProgress()
+}
+}
+</script>/* End custom CSS */
